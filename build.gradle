@@ -1,7 +1,7 @@
 buildscript {
     repositories {
         jcenter()
-    } 
+    }  
     dependencies {
         classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.5'
         classpath 'com.google.gradle:osdetector-gradle-plugin:1.6.0'
